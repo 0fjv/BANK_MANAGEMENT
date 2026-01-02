@@ -35,9 +35,9 @@ The project was created as part of a school-level assignment to understand the f
 ---
 
 ## 👥 Contributors
-- **Jay Deep Mahato**  
 - **Aakash Deep**  
 - **Antariksh Bera**  
+- **Jay Deep Mahato**  
 
 ---
 
