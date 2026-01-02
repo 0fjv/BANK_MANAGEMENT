@@ -39,11 +39,3 @@ The project was created as part of a school-level assignment to understand the f
 - **Aakash Deep**  
 - **Antariksh Bera**  
 
----
-
-## 🚀 Installation & Setup
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/bank-management-system.git
-cd bank-management-system
